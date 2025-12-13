@@ -55,4 +55,4 @@ Image classification using transfer learning with ResNet, VGG, and MobileNet, in
 
 ### Contact
 📧 Email: rajcsejngec2022@gmail.com  
-🔗 LinkedIn: *(add your LinkedIn link here)*
+
