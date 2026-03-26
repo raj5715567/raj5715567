@@ -1,4 +1,4 @@
-## Raj Kumar
+## Raj 
 
 AI / Machine Learning | Computer Vision | Python
 
