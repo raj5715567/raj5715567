@@ -1,89 +1,178 @@
 <div align="center">
 
-# 👋 Hi, I'm Raj 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Raj Kumar
 
-### AI Engineer • Machine Learning • Generative AI • Computer Vision
+### AI Engineer • Generative AI • Computer Vision • Machine Learning
 
-Building production-ready AI systems with LLMs, RAG, Computer Vision, and Deep Learning.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+Production-Ready+AI+Applications;LLMs+%7C+RAG+%7C+Computer+Vision;Hybrid+Search+%7C+AI+Agents+%7C+Python;Turning+Research+Into+Real+Products" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=AI+%7C+Machine+Learning+Engineer;Generative+AI+%7C+RAG+Developer;Computer+Vision+Researcher;Python+Developer;Building+Production+AI+Applications" />
+<img src="https://komarev.com/ghpvc/?username=raj5715567&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-# 💫 About Me
+# 💻 About Me
 
-I'm an **AI Engineer** passionate about building intelligent systems that bridge **Machine Learning**, **Computer Vision**, and **Generative AI**.
+```python
+class RajKumar:
 
-My work spans the complete AI lifecycle—from **data preprocessing**, **model training**, and **evaluation** to **deployment** of production-ready applications.
+    def __init__(self):
 
-Recently I've been focusing on developing **Retrieval-Augmented Generation (RAG)** systems with **Hybrid Search**, **Cross-Encoder Re-ranking**, and **LLM-powered AI assistants**, while continuing my work in medical imaging and computer vision.
+        self.role = "AI Engineer"
 
----
+        self.location = "India 🇮🇳"
 
-# 🚀 Current Focus
+        self.languages = [
+            "Python",
+            "C",
+            "C++"
+        ]
 
-- 🧠 Large Language Models (LLMs)
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🔎 Hybrid Search (BM25 + Dense Retrieval)
-- 🤖 AI Agents & LangGraph
-- 👁 Computer Vision
-- 🏥 Medical Image Analysis
-- ⚡ Production AI Systems
+        self.specialization = [
+            "Generative AI",
+            "Machine Learning",
+            "Computer Vision",
+            "Deep Learning"
+        ]
 
----
+        self.current_focus = [
+            "Advanced RAG",
+            "LLMs",
+            "Hybrid Search",
+            "Agentic AI",
+            "GraphRAG"
+        ]
 
-# 🛠 Tech Stack
+        self.goal = "Building Production AI Systems"
 
-### Languages
-
-```text
-Python ████████████████████
-C      ███████████
-C++    ███████████
-SQL    ███████
+    def say_hi(self):
+        print("Let's build intelligent systems 🚀")
 ```
 
-### AI / ML
+---
 
-- PyTorch
-- TensorFlow
-- Keras
-- Scikit-learn
-- NumPy
-- Pandas
+# 🚀 What I Build
 
-### Generative AI
+Instead of solving toy problems,
 
-- OpenAI API
-- Google Gemini
-- Ollama
-- LangChain
-- FAISS
-- BM25
-- Hybrid Search
-- Sentence Transformers
+I build **end-to-end AI systems**.
 
-### Computer Vision
+✔ Production-ready RAG Applications
 
-- OpenCV
-- YOLOv5
-- YOLOv7
-- YOLOv8
-- CNN
-- U-Net
-- DeepLabv3
-- Image Segmentation
-- Object Detection
+✔ LLM-powered AI Assistants
 
-### Deployment
+✔ Medical Imaging Systems
 
-- Streamlit
-- Flask
-- Git
-- GitHub
-- Linux
+✔ Deep Learning Pipelines
+
+✔ Computer Vision Applications
+
+✔ AI-powered Web Applications
+
+✔ Explainable Machine Learning Models
+
+✔ End-to-End Deployment
+
+---
+
+# 🧠 Areas of Interest
+
+```text
+Generative AI                ██████████████████████ 100%
+
+Retrieval-Augmented Generation██████████████████████ 100%
+
+Large Language Models         ██████████████████████ 100%
+
+Computer Vision               ██████████████████████ 100%
+
+Deep Learning                 ██████████████████████ 100%
+
+Machine Learning              ██████████████████████ 100%
+
+Medical AI                    ████████████████████░ 90%
+
+AI Agents                     ████████████████░░░░░ 75%
+```
+
+---
+
+# ⚙ Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c"/>
+
+</p>
+
+---
+
+## AI / Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+
+</p>
+
+```
+PyTorch
+TensorFlow
+Keras
+Scikit-Learn
+NumPy
+Pandas
+OpenCV
+```
+
+---
+
+## Generative AI
+
+```
+OpenAI API
+
+Gemini API
+
+Ollama
+
+LangChain
+
+FAISS
+
+BM25
+
+Hybrid Search
+
+Cross Encoder
+
+Sentence Transformers
+```
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,flask"/>
+
+</p>
+
+```
+Streamlit
+
+Git
+
+GitHub
+
+Linux
+
+REST APIs
+```
 
 ---
 
@@ -91,105 +180,144 @@ SQL    ███████
 
 ## 🚀 Advanced Hybrid RAG System
 
-Production-inspired Retrieval-Augmented Generation system featuring:
+> Production-inspired Retrieval-Augmented Generation System
 
-- Hybrid Search
-- Dense Retrieval
-- BM25
-- Reciprocal Rank Fusion
-- Cross Encoder Re-ranking
-- Multi-LLM Support
-- Conversation Memory
-- Source Citations
-- Streamlit UI
+✔ Hybrid Search
+
+✔ BM25
+
+✔ Dense Retrieval
+
+✔ Reciprocal Rank Fusion
+
+✔ Cross Encoder Re-ranking
+
+✔ Multi-LLM Support
+
+✔ Conversation Memory
+
+✔ Source Citations
+
+✔ Streamlit Deployment
 
 ---
 
 ## 🧠 AI-Based Polyp Detection & Risk Assessment
 
-Medical imaging system using deep learning for:
-
-- Semantic Segmentation
-- Risk Classification
-- Clinical Decision Support
-- Real-time Streamlit Deployment
+Semantic segmentation system for clinical decision support using Deep Learning.
 
 ---
 
 ## 🧬 Brain Tumor Detection & Segmentation
 
-End-to-end MRI analysis pipeline using:
+Complete MRI analysis pipeline using
 
-- CNN
-- U-Net
-- DeepLabv3
-- Medical Image Processing
-- Tumor Classification
+CNN
+
+U-Net
+
+DeepLabv3
 
 ---
 
 ## ❤️ Smart Cardiovascular Risk Assessment
 
-Multi-model AI system combining:
-
-- OCR
-- Deep Learning
-- Machine Learning
-- Flask REST API
-- Explainable AI
+AI + OCR + Machine Learning + Explainable AI
 
 ---
 
-# 📈 Currently Learning
+# 📚 Currently Exploring
 
-- Agentic AI
-- GraphRAG
-- LangGraph
-- Multi-Agent Systems
-- Production AI Deployment
-- Kubernetes
-- AWS
+```text
+✅ Advanced RAG
 
----
+✅ LangGraph
 
-# 📚 Publications
+✅ AI Agents
 
-📖 **Lessons from the Field: Real-World Applications of AI in Infrastructure**
+✅ GraphRAG
 
-Springer Nature
+⬜ MCP Servers
 
----
+⬜ Model Context Protocol
 
-# 🏆 Experience
+⬜ Kubernetes
 
-🏢 AI/ML Intern — Excellence Technology
+⬜ AWS
 
-🏢 AI Research Intern — IIIT Una
-
-🏢 AI Research Intern — IIIT Una
+⬜ Distributed AI Systems
+```
 
 ---
 
-# 📫 Connect With Me
+# 📊 GitHub Stats
 
-📧 Email
+<p align="center">
 
-rajcsejngec2022@gmail.com
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=raj5715567&show_icons=true&theme=tokyonight"/>
 
-💼 LinkedIn
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=raj5715567&theme=tokyonight"/>
 
-https://linkedin.com/in/raj-51107b329
+</p>
 
-💻 GitHub
+---
 
-https://github.com/raj5715567
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj5715567&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+🏛 AI Research Intern — IIIT Una
+
+💼 AI/ML Intern — Excellence Technology
+
+📖 Springer Book Chapter Author
+
+🧠 Production AI Project Developer
+
+🚀 Open Source Contributor
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:rajcsejngec2022@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://linkedin.com/in/raj-51107b329">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="https://github.com/raj5715567">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### "Building AI that solves real-world problems."
+## 💡 Philosophy
 
-⭐ If you like my projects, consider giving them a star!
+> **"AI should solve real-world problems—not just benchmark datasets."**
+
+⭐ Thanks for visiting my profile!
 
 </div>
